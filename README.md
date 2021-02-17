@@ -52,7 +52,8 @@ const newData = buongiorni(ruleset, data); // newData containts edited data
 ]
 ```
 ### ruleset
-```
+```javascript
+const bgRules = `
 every 2
     age 20
     cool TRUE
@@ -63,6 +64,7 @@ from 5
 from 2 to 4
     middle TRUE
     end
+`;
 ```
 
 ### output
