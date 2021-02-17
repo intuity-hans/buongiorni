@@ -18,7 +18,7 @@ const newData = buongiorni(ruleset, data); // newData containts edited data
 
 ### input data
 ```javascript
-[
+const data = [
   {
     name: "Tricia Torres",
     gender: "female",
@@ -52,8 +52,11 @@ const newData = buongiorni(ruleset, data); // newData containts edited data
 ]
 ```
 ### ruleset
+
+tabs are just for visibility. the end of an action is  determined by the "end" command (could be done more elegantly tbh).
+
 ```javascript
-const bgRules = `
+const ruleset = `
 every 2
     age 20
     cool TRUE
