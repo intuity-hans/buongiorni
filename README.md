@@ -5,6 +5,7 @@ just a quick test for a more "natural" way to change certain array-structure.
 if this project should go anywhere some todos:
 - how can values be parsed? currently everything is treated as a string
 - how are nested values processed?
+- which rules make sense? keeping it simple VS many functions
 
 
 ## demo
