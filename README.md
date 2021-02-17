@@ -68,6 +68,9 @@ from 2 to 4
     middle TRUE
     end
 `;
+
+
+// idea: age * 3
 ```
 
 ### output
