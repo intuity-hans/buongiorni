@@ -1,5 +1,5 @@
 # buongiorni
-just a quick test for a more "natural" way to change certain array-structure.
+just a quick test for a more "natural" way to change the values of objects in array-structures.
 
 ## todo
 if this project should go anywhere some todos:
